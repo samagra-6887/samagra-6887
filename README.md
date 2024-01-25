@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋, My name is 
+# समग्र सिंह
+### Designer | Developer | Hit Gym 
+![Designer | Developer | Hit Gym ](https://media.licdn.com/dms/image/D5616AQHWaAE_L9wX7Q/profile-displaybackgroundimage-shrink_350_1400/0/1706220360630?e=1711584000&v=beta&t=gXncwHyQLk1-oFkgFgBThMEllOe_Q5S6bXPB52DKlRY)
 
-<!--
-**samagra-6887/samagra-6887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samagra Singh, a Computer Science and Engineering student at Chandigarh University, India. I'm passionate about coding, exploring creative solutions, and building web pages from scratch to the final product. Currently, I'm focusing on my Coding Skills and on my logic building skills.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills and Experiences
+- ❕ HTML
+- 🔹CSS
+- ❄️ REACT
+- 🪐NEXT JS
+
+ ### Language Skills
+   
+- 💻 C++ | JAVA | PYTHON
+
+ 
+
+- 🔭 I’m currently working on MY PORTFTFOLIO page. 
+
+
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samagra-6887)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samagra-singh-126721122/)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/___samagra___/)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/samagrasingh09)  
