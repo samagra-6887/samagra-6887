@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is 
 # समग्र सिंह
 ### Designer | Developer | Hit Gym 
-![Designer | Developer | Hit Gym ](https://media.licdn.com/dms/image/D5616AQHWaAE_L9wX7Q/profile-displaybackgroundimage-shrink_350_1400/0/1706220360630?e=1711584000&v=beta&t=gXncwHyQLk1-oFkgFgBThMEllOe_Q5S6bXPB52DKlRY)
+![Designer | Developer | Hit Gym ](https://media.licdn.com/dms/image/D5616AQHbbsmYRUd8RQ/profile-displaybackgroundimage-shrink_350_1400/0/1706812636909?e=1712188800&v=beta&t=tbd6vH35KM9Kcz9CLBcmWHW7g-Lz7LQPw1-9GuxITB4)
 
 I'm Samagra Singh, a Computer Science and Engineering student at Chandigarh University, India. I'm passionate about coding, exploring creative solutions, and building web pages from scratch to the final product. Currently, I'm focusing on my Coding Skills and on my logic building skills.
 
